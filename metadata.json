@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Real-Time Object Detection & Tracking System",
+  "description": "Production-quality computer vision system with live webcam and video input, deep learning detection, ByteTrack multi-object tracking, analytics dashboard, and modular Python OpenCV suite.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
